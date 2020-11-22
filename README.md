@@ -9,13 +9,14 @@
 # Larahelp
 
 Supercharge your Laravel projects with more than 35 useful global helpers.
+This Package was folked from https://coveralls.io/github/DarkGhostHunter/Larahelp?branch=master, and I did some fix to support laravel 8.*
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require darkghosthunter/larahelp
+composer require mjczz/laravelhelper
 ```
 
 ## Usage
